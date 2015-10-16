@@ -24,7 +24,7 @@ void setup () {
   
   enemyPosition_y = floor(random(419));
   
-  bloodWdith = floor(random(199));
+  bloodWdith = floor(random(25,199));
   
   treasurePosition_x = floor(random(600));
   treasurePosition_y = floor(random(440));
